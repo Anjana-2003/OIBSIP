@@ -1,6 +1,6 @@
 #TASK-2: BMI Calculator 
 #Author: Anjana Chaturvedi
-#Batch:  August-P1
+#Batch:  September-P1
 #Domain: Python Programming
 #Aim:-   Create a command-line BMI calculator in Python. Prompt users for their weight (in kilograms) and height (in meters).
 #Calculate the BMI and classify it into categories (e.g., underweight, normal, overweight) based on predefined ranges.
